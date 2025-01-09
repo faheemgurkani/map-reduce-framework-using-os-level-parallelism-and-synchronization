@@ -1,0 +1,5 @@
+messi ronaldo messi ronaldo neymar:{messi:2,ronaldo:2,neymar:1}   
+ali is is of ali of ali asif as of ali ali:{ali:5,is:2,of:3,asif:1,as:1}     
+os os what do you os:{os:3,what:1,do:1,you:1}
+
+                                               
